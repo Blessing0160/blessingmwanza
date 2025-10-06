@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/blessing-m-b60897341/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-m-b60897341/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
