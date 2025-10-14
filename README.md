@@ -5,11 +5,7 @@ Below are real helpdesk projects showing my process and documentation style.
 
 <h2>👨‍💻 Featured Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](link)
-  - [osTicket Lifecycle Walktrhough](link)
-  - [Azure AD User Management Automation](link)
-  - [Troubleshooting Case Study: VPN Connection Error](link)
+- [Ticket Handling](https://github.com/Blessing0160/Ticket-Handling)
     
 <h2>🤳Connect with me:</h2>
 
