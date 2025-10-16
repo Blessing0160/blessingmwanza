@@ -1,4 +1,4 @@
-<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-m-b60897341/">IT Professional</a></h1>
+<h1>Hi, I'm Blessing</h1>
 
 I help teams solve IT issues fast and clearly - from ticket creation to resolution.
 Below are real helpdesk projects showing my process and documentation style.
